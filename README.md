@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @garrett85
-- 👀 I’m interested in C/C++ programming, as well as Linux. I have finally realized and come to terms with the fact that I do not like web development.
-- 🌱 I’m currently learning C/C++, Linux administration, and Bash, as well as a penetration testing course.
+- 👀 I’m interested in C/C++, php, and bash programming, as well as the Linux OS.
+- 🌱 I’m currently work as a php web developer and continue to study C++ and Linux.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
