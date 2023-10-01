@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @garrett85
-- 👀 I’m interested in C/C++, php, and bash programming, as well as the Linux OS.
-- 🌱 I’m currently work as a php web developer and continue to study C++ and Linux.
+- 👋 @garrett85
+- 👀 I’m interested in C/C++, php, python, and bash programming, as well as the Linux OS.
+- 🌱 I’m currently work as a php web developer and continue to study C++, python and Linux.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
